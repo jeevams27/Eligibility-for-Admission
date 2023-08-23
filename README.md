@@ -23,8 +23,8 @@ Display the output for the input read from the user.
 Stop the execution.
 ## Program:
 ```
-Developed by: Paul Andrew D
-Reg no: 212221230075
+Developed by: JEEVA MS
+Reg no: 212221230040
 ```
 ```c#
 using System;
